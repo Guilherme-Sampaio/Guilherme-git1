@@ -3,7 +3,8 @@
 
 Um ou dois parágrafos sobre seu projeto e o que ele faz.
 
-![](imagem) Uma screenshot do seu projeto
+![](https://media0.giphy.com/media/Rm9RzjSAfXm4o/giphy.gif) 
+Uma screenshot do seu projeto
 
 ## Instalação (caso tenha)
 
@@ -21,11 +22,13 @@ edit autoexec.bat
 
 ## Exemplos de uso
 
-Alguns exemplos que incentivariam a pessoa a ultilizarem o projeto, ou que demonstrasse que este é útil para o que ele faz. Divida essa parte em partes menores se possível, coloque algum código ou prints da tela.
+Alguns exemplos que incentivariam a pessoa a ultilizarem o projeto, ou que demonstrasse que este é útil para o que ele faz. 
+Divida essa parte em partes menores se possível, coloque algum código ou prints da tela.
 
 ## Ambiente de desenvolvimento
 
-Descreer como instalar e preparar qualquer dependência de desenvolvimento para que seu projeto possa ser executado localmente e pessoa possam contribuir com o mesmo. Se possível forneça as informações para diferentes plataformas( Windows, Linux, MacOS).
+Descreer como instalar e preparar qualquer dependência de desenvolvimento para que seu projeto possa ser executado localmente e pessoa possam contribuir com o mesmo. 
+Se possível forneça as informações para diferentes plataformas( Windows, Linux, MacOS).
 
 ## Histórico de atualizações
 
@@ -45,5 +48,8 @@ Descreer como instalar e preparar qualquer dependência de desenvolvimento para 
 ## Meta
 
 Seu nome - [@suaRede](https://google.com) - seuemail@gmail.com
-Distribuído sobre a liçenca. Veja `Licença` para mais informações
+
+Distribuído sobre a liçenca. 
+Veja `Licença` para mais informações
+
 [https://github.com/usuario/projeto](https://github.com/seuusuario)
